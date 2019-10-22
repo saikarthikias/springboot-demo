@@ -2,13 +2,12 @@ version: 0.2
 phases: 
   install:
     runtime-versions:
-      java: openjdk11
+      docker: 18
     commands: 
       - "mvn clean package"
   pre_build: 
     commands: 
       - "echo Logging in to Docker Hub..."
-      - "docker login --username=\"saikarthikias\" --password=\"HelloPassword123\""
 
   build: 
     commands: 
