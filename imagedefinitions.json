@@ -1,0 +1,6 @@
+[
+    {
+        "name": "springboot-demo",
+        "imageUri": "saikarthikias/springboot-demo-dockerhub"
+    }
+]
