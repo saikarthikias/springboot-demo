@@ -3,6 +3,8 @@ phases:
   install:
     runtime-versions:
       java: openjdk11
+    commands: 
+      - "mvn clean package"
   pre_build: 
     commands: 
       - "echo Logging in to Docker Hub..."
