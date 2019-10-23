@@ -15,8 +15,7 @@ public class ApiController {
     @RequestMapping( value = "/", method = RequestMethod.GET )
     public List<String> index() {
         List<String> s = new ArrayList<>();
-        s.add("Docker + AWS Codepipline Tutorial");
-        s.add("Learn more at: https://github.com/sixthpoint/Docker-AWS-CodePipeline");
+        s.add("Hello 8kMiles!");
         return s;
     }
 }
