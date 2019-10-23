@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.sixthpoint.springboot.codepipeline.example.DockerSpringBootApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.118 sec - in com.sixthpoint.springboot.codepipeline.example.DockerSpringBootApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.393 sec - in com.sixthpoint.springboot.codepipeline.example.DockerSpringBootApplicationTests
